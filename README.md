@@ -110,7 +110,7 @@ This endpoint should provide any (safe) information that may be useful to a user
             "twitter": ["post tweets"],
             "local": ["view users", "create user"]
         },
-        "authentication": ["oauth", "oauth2", "username/password"].
+        "authentication": ["oauth", "oauth2", "username/password"],
         "discovery": {
             "registration": "POST /register",
             "listing": "www.myservicelisting.com"
